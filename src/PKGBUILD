@@ -3,14 +3,15 @@
 pkgname="baracle"
 pkgver="1.0"
 pkgrel="1"
-pkgdesc="A simple bash wrapper to manage one or more archives from the terminal"
+pkgdesc="Let's make a text editor like in the 70's"
 arch=("x86_64")
 url="https://github.com/Mirko-r/baracle"
 depends=('gcc')
 license=("GPL-3.0")
-source=("https://github.com/Mirko-r/extrattor/releases/download/1.3/extrattor.sh")
+source=("https://github.com/Mirko-r/baracle/releases/download/1.0/baracle.c")
 sha512sums=("SKIP")
 
 package(){
-    install -Dm0755 "${srcdir}/extrattor.sh" "${pkgdir}/usr/bin/extrattor"
+    gcc baracle.c -o baracle -Wall -Wextra -pedantic -std=c99
+    install -Dm0755 "${srcdir}/baracle" "${pkgdir}/usr/bin/baracle"
 }
