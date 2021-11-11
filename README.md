@@ -40,6 +40,13 @@ gcc baracle.c -o baracle -Wall -Wextra -pedantic -std=c99
 
 ```
 
+## Sample Usage
+
+| Command              | Function                                                               |
+| -------------------- | ---------------------------------------------------------------------- |
+| `ctrl+s`| save file       |
+| `ctrl+q`| quit baracle    |
+| `ctrl+f`| find a string	|
 
 ## Contributing
 
