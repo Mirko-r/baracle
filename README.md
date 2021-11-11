@@ -38,6 +38,9 @@ cd src/
 gcc baracle.c -o baracle -Wall -Wextra -pedantic -std=c99
 ./baracle
 
+```
+
+
 ## Contributing
 
 1. [Fork it](<https://github.com/Mirko-r/baracle/fork>)
