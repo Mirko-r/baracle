@@ -22,7 +22,7 @@ makepkg -si
 ### Stable
 
 - go to [the releases page](https://github.com/Mirko-r/baracle/releases)
-- download the `baracle` of the version you want
+- download the `baracle.c` of the version you want
 - open your terminal in the folder where you downloaded it and run:
 
 ```bash
