@@ -37,3 +37,15 @@ git clone https://github.com/Mirko-r/baracle
 cd src/
 gcc baracle.c -o baracle -Wall -Wextra -pedantic -std=c99
 ./baracle
+
+## Contributing
+
+1. [Fork it](<https://github.com/Mirko-r/baracle/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+## 💲Support my work
+
+[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stupidamentepod)
