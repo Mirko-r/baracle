@@ -49,6 +49,10 @@ gcc baracle.c -o baracle -Wall -Wextra -pedantic -std=c99
 
 ```
 
+## Debian\Ubuntu and derivatives
+
+Soon™ (seriously though, soon)
+
 ## Sample Usage
 
 | Command              | Function                                                               |
