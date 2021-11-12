@@ -16,6 +16,15 @@ Use an [AUR helper](https://wiki.archlinux.org/title/AUR_helpers) or
 git clone https://aur.archlinux.org/baracle.git
 makepkg -si
 ```
+### Unstable
+package: [baracle-git](https://aur.archlinux.org/packages/baracle-git)<br>
+
+Use an [AUR helper](https://wiki.archlinux.org/title/AUR_helpers) or
+
+```bash
+git clone https://aur.archlinux.org/baracle-git.git
+makepkg -si
+```
 
 ## Manual
 
