@@ -807,13 +807,13 @@ int editorSyntaxToColor(int hl) {
   case HL_MLCOMMENT:
     return 36;
   case HL_KEYWORD1:
-    return 33;
+    return 31;
   case HL_KEYWORD2:
     return 32;
   case HL_STRING:
-    return 35;
+    return 33;
   case HL_NUMBER:
-    return 31;
+    return 34;
   case HL_MATCH:
     return 34;
   default:
