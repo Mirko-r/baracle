@@ -19,7 +19,7 @@
 
 /*** defines ***/
 
-#define BARACLE_VERSION "1.0"
+#define BARACLE_VERSION "1.5.1"
 #define BARACLE_TAB_STOP 8
 #define BARACLE_QUIT_TIMES 3
 
