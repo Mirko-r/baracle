@@ -21,7 +21,7 @@
 
 #define BARACLE_VERSION "1.5.1"
 #define BARACLE_TAB_STOP 8
-#define BARACLE_QUIT_TIMES 3
+#define BARACLE_QUIT_TIMES 1
 
 #define CTRL_KEY(k) ((k)&0x1f)
 
