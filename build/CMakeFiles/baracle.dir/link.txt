@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/baracle.dir/home/mriko/Progetti/baracle/src/baracle.c.o -o baracle 

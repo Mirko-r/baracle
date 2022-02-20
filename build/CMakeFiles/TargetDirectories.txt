@@ -1,3 +1,0 @@
-/home/mriko/Progetti/baracle/build/CMakeFiles/baracle.dir
-/home/mriko/Progetti/baracle/build/CMakeFiles/edit_cache.dir
-/home/mriko/Progetti/baracle/build/CMakeFiles/rebuild_cache.dir
