@@ -43,10 +43,8 @@ gcc baracle.c -o baracle -Wall -Wextra -pedantic -std=c99
 
 ```bash
 git clone https://github.com/Mirko-r/baracle
-cd src/
-gcc baracle.c -o baracle -Wall -Wextra -pedantic -std=c99
-./baracle
-
+cd baracle
+./install.sh
 ```
 
 ## Debian\Ubuntu and derivatives
