@@ -1,6 +1,7 @@
 # baracle
 Let's make a text editor like in the 70's
- 
+
+![img](./img/onefetch.png)
 ![baracle](./img/baracle.png)
 
 # Installation
